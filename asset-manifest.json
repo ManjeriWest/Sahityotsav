@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.afd556e4.css",
-    "main.js": "/static/js/main.7ee4024e.js",
-    "static/js/453.2f2c7f10.chunk.js": "/static/js/453.2f2c7f10.chunk.js",
-    "static/media/SahityolsaveMjHeroTitle.png": "/static/media/SahityolsaveMjHeroTitle.809a5321b1d04db7d996.png",
-    "static/media/PeaceLitLogo.png": "/static/media/PeaceLitLogo.a800bac42fcc67873be0.png",
-    "static/media/PeacelitsmallLogo.png": "/static/media/PeacelitsmallLogo.1e6b47a3328f6127e95c.png",
-    "static/media/pacelitsmalltext.png": "/static/media/pacelitsmalltext.1fdb6dea387bd78698f9.png",
-    "index.html": "/index.html",
-    "main.afd556e4.css.map": "/static/css/main.afd556e4.css.map",
-    "main.7ee4024e.js.map": "/static/js/main.7ee4024e.js.map",
-    "453.2f2c7f10.chunk.js.map": "/static/js/453.2f2c7f10.chunk.js.map"
+    "main.css": "/sahityotsav/static/css/main.afd556e4.css",
+    "main.js": "/sahityotsav/static/js/main.29719838.js",
+    "static/js/453.2f2c7f10.chunk.js": "/sahityotsav/static/js/453.2f2c7f10.chunk.js",
+    "static/media/SahityolsaveMjHeroTitle.png": "/sahityotsav/static/media/SahityolsaveMjHeroTitle.809a5321b1d04db7d996.png",
+    "static/media/PeaceLitLogo.png": "/sahityotsav/static/media/PeaceLitLogo.a800bac42fcc67873be0.png",
+    "static/media/PeacelitsmallLogo.png": "/sahityotsav/static/media/PeacelitsmallLogo.1e6b47a3328f6127e95c.png",
+    "static/media/pacelitsmalltext.png": "/sahityotsav/static/media/pacelitsmalltext.1fdb6dea387bd78698f9.png",
+    "index.html": "/sahityotsav/index.html",
+    "main.afd556e4.css.map": "/sahityotsav/static/css/main.afd556e4.css.map",
+    "main.29719838.js.map": "/sahityotsav/static/js/main.29719838.js.map",
+    "453.2f2c7f10.chunk.js.map": "/sahityotsav/static/js/453.2f2c7f10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afd556e4.css",
-    "static/js/main.7ee4024e.js"
+    "static/js/main.29719838.js"
   ]
 }
